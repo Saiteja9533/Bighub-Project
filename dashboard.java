@@ -3,7 +3,7 @@ public class Marathon {
 	public static void main(String[] args) {
 	
 		marathon();
-		bikeRace();
+		cycleRace2();
 	}
 	
 	
@@ -11,7 +11,7 @@ public class Marathon {
 		System.out.println("This is the Marathon function");
 	}
 
-	pubic static void bikeRace(){
-		system.out.println("This is the Bike rece function");
+	public static void cycleRace2(){
+		system.out.println("This is the Cycle races");
 	}
 }
